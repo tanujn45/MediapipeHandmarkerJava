@@ -2,7 +2,7 @@
 
 This Android application uses Google's [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide) library to show hand landmarks. The project is implemented in Java, as there is no official Java code available for this functionality; all examples are in Kotlin. This repository provides a solution for developers who prefer working with Java for Android development.
 
-![Hand Tracking Demo](demo.gif)
+<img src="demo.gif" alt="Demo GIF" width="250"/>
 
 ## Features
  - Detects and visualizes hand landmarks in real time using the front camera.
